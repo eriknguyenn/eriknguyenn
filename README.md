@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eriknguyenn
+- 👋 Hi, I’m Erik
 - 👀 I’m interested in music, food and travelling
 - 🌱 I’m currently learning coding
 - 📫 You can reach me via email erik.nguyenn@outlook.com
